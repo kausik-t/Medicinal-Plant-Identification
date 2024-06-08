@@ -8,13 +8,13 @@ This project aims to develop a system for identifying medicinal plants using Con
 
 ## Dependencies
 
-- [tensorflow]()
-- [os]()
-- [cv2]()
-- [imghdr]()
-- [matplotlib]()
-- [Numpy]()
-- [keras]()
+- tensorflow
+- os
+- cv2
+- imghdr
+- matplotlib
+- Numpy
+- keras
 
 ## Language/Framework Used
 
@@ -46,6 +46,5 @@ The CNN model is trained with the conditions
 
 ## Dataset
 
-Indian Medicinal ⚕️Leaves 🌿 Dataset
-(https://www.kaggle.com/datasets/aryashah2k/indian-medicinal-leaves-dataset/data)
+[Indian Medicinal ⚕️Leaves 🌿 Dataset](https://www.kaggle.com/datasets/aryashah2k/indian-medicinal-leaves-dataset/data)
 
